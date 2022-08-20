@@ -1,0 +1,23 @@
+<svg width="100%" height="100%" id="svg" viewBox="0 0 1440 700" xmlns="http://www.w3.org/2000/svg"
+  class="transition duration-300 ease-in-out delay-150">
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="50%" x2="100%" y2="50%">
+      <stop offset="5%" stop-color="#f3d11088"></stop>
+      <stop offset="95%" stop-color="#ffe90088"></stop>
+    </linearGradient>
+  </defs>
+  <path
+    d="M 0,700 C 0,700 0,233 0,233 C 116,200.21428571428572 232,167.42857142857142 357,170 C 482,172.57142857142858 616.0000000000001,210.5 741,244 C 865.9999999999999,277.5 982,306.5714285714286 1097,304 C 1212,301.4285714285714 1326,267.21428571428567 1440,233 C 1440,233 1440,700 1440,700 Z"
+    stroke="none" stroke-width="0" fill="url(#gradient)"
+    class="transition-all duration-300 ease-in-out delay-150 path-0" transform="rotate(-180 720 350)"></path>
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="50%" x2="100%" y2="50%">
+      <stop offset="5%" stop-color="#f3d110ff"></stop>
+      <stop offset="95%" stop-color="#ffe900ff"></stop>
+    </linearGradient>
+  </defs>
+  <path
+    d="M 0,700 C 0,700 0,466 0,466 C 145.25,427.25 290.5,388.5 418,401 C 545.5,413.5 655.2499999999999,477.24999999999994 762,472 C 868.7500000000001,466.75000000000006 972.5,392.5 1085,380 C 1197.5,367.5 1318.75,416.75 1440,466 C 1440,466 1440,700 1440,700 Z"
+    stroke="none" stroke-width="0" fill="url(#gradient)"
+    class="transition-all duration-300 ease-in-out delay-150 path-1" transform="rotate(-180 720 350)"></path>
+</svg>
